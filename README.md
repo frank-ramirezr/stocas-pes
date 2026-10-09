@@ -150,7 +150,7 @@ python run_stocas.py
 ### Citation
 
 If you use STOCAS-PES in your research, please cite our paper:
-Ramírez-Rodríguez, F. Pseudo-random walk exploration of the potential energy surface of $[(\text{H}_2\text{O})_6 \cdot\cdot\cdot X]^-$ halide clusters with fully comprehensive water-halide interactions. Phys. Chem. Chem. Phys. 2026. DOI: 10.1039/XXXXXX. 
+*Once the article is available online the full name and citation will be posted here*. 
 
 ### License 
 
