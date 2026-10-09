@@ -150,7 +150,8 @@ python run_stocas.py
 ### Citation
 
 If you use STOCAS-PES in your research, please cite our paper:
-*Once the article is available online the full name and citation will be posted here*. 
+
+**Once the article is available online the full name and citation will be posted here**. 
 
 ### License 
 
