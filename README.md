@@ -70,7 +70,7 @@ Psi4: conda install -c conda-forge psi4
 
 ORCA: Ensure the orca binary path is exported in your environment (export PATH="/path/to/orca:$PATH").
 
-git clone [https://github.com/your-username/stocas-pes.git](https://github.com/your-username/stocas-pes.git)
+git clone [https://github.com/your-username/stocas-pes.git](https://github.com/frank-ramirezr/stocas-pes.git)
 cd stocas-pes
 
 ## How it works
