@@ -1,4 +1,7 @@
 #! /usr/bin/env python3
+###########################################################################################################################
+# FOR THE FULL GPLV3 LICENSE HEADER TEXT AND ATTRIBUTION DETAILS FOR STOCAS-PES.PY, PLEASE REFER TO THE REFERENCED SOURCE #                                                                                                                        # 
+###########################################################################################################################
 
 import glob as glob
 import math as m
