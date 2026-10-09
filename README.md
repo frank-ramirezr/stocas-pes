@@ -64,9 +64,16 @@ Ensure you have Python 3.8+ installed along with standard scientific libraries:
 pip install numpy scipy matplotlib
 ```
 
-xTB: conda install -c conda-forge xtb-python or via binary executable.
+**xTB**: 
+```bash
+conda install -c conda-forge xtb-python
+```
+or via binary executable.
 
-Psi4: conda install -c conda-forge psi4
+**Psi4**: 
+```bash
+conda install -c conda-forge psi4
+```
 
 ORCA: Ensure the orca binary path is exported in your environment (export PATH="/path/to/orca:$PATH").
 
