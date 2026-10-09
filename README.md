@@ -155,5 +155,6 @@ If you use STOCAS-PES in your research, please cite our paper:
 
 ### License 
 
-Distributed under the GNU General Public License v3.0 (GPL-3.0). See LICENSE for full legal text.
+This project, including the main executable `stocas-pes.py` and all accompanying modules, utility scripts, and supporting source files, is licensed under the GNU General Public License v3.0. 
+
 
